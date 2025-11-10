@@ -17,6 +17,20 @@
 
 <br>
 
+By [Mark Gillard](https://github.com/marzer).
+
+## Installation
+
+Run:
+```bash
+$ npm i tomlplusplus.cxx
+```
+
+And then include `toml.hpp` as follows:
+```c
+#include "node_modules/tomlplusplus.cxx/toml.hpp"
+```
+
 ## Library features
 
 -   Header-only (optional!)
@@ -357,3 +371,10 @@ though you're welcome to reach out via other means. In order of likely response 
 [something better than std::optional]: https://github.com/TartanLlama/optional
 [m.css]: https://mcss.mosra.cz/documentation/doxygen
 [`toml.hpp`]: https://raw.githubusercontent.com/marzer/tomlplusplus/master/toml.hpp
+
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/tomlplusplus.cxx)

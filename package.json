@@ -1,0 +1,15 @@
+{
+  "name": "tomlplusplus.cxx",
+  "version": "3.4.0",
+  "description": "Header-only TOML config file parser and serializer for C++17; Mark Gillard (2020).",
+  "keywords": ["c", "library", "parser", "toml", "config", "serialization"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/tomlplusplus.cxx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/tomlplusplus.cxx/issues"
+  },
+  "homepage": "https://github.com/nodef/tomlplusplus.cxx#readme"
+}
